@@ -1,0 +1,8 @@
+Programa Soma1 
+{
+public static void Main(){
+inum n1 = 2;
+inum n2 = 3;
+inum n3 = n1 + n2;
+}
+}
